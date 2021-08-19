@@ -89,7 +89,7 @@ class Particle {
         this.vel.mult((random(1)**2)*2);
       }
     } else {
-      this.vel = createVector(0, -random(8, 17));
+      this.vel = createVector(0, -random(11, 18));
     }
     this.r = 3;
     this.col = col;
