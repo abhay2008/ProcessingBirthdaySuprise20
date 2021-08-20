@@ -28,9 +28,9 @@ function draw() {
   clear();
   colorMode(RGB);
   updateCandles();
-  strokeWeight(2.3);
+  strokeWeight(1);
   textAlign(CENTER);
-  textSize(20);
+  textSize(18);
   fill('cyan');
   text('Made with ❤️ by Abhay, Simon and Sarvagya', width / 2, height - 50);
   colorMode(HSB);
