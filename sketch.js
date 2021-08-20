@@ -31,7 +31,7 @@ function draw() {
   strokeWeight(1);
   textAlign(CENTER);
   textSize(18);
-  fill('cyan');
+  fill('#520b73');
   text('Made with ❤️ by Abhay, Simon and Sarvagya', width / 2, height - 50);
   colorMode(HSB);
   updateFireworks();
