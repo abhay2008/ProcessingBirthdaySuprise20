@@ -32,7 +32,7 @@ function draw() {
   textAlign(CENTER);
   textSize(20);
   fill('cyan');
-  text('Made with ❤️ by Abhay and Simon', width / 2, height - 50);
+  text('Made with ❤️ by Abhay, Simon and Sarvagya', width / 2, height - 50);
   colorMode(HSB);
   updateFireworks();
 }
