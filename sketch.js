@@ -30,8 +30,9 @@ function draw() {
   updateCandles();
   strokeWeight(1);
   textAlign(CENTER);
+  stroke('#8638c9');
   textSize(18);
-  fill('#520b73');
+  fill('#8638c9');
   text('Made with ❤️ by Abhay, Simon and Sarvagya', width / 2, height - 50);
   colorMode(HSB);
   updateFireworks();
